@@ -525,3 +525,9 @@ body.niveles header h2{
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
 }
+
+
+/*VISITED*/
+#enlacesniveles a:visited{
+   color: blueviolet; 
+}
