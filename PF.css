@@ -528,6 +528,6 @@ body.niveles header h2{
 
 
 /*VISITED*/
-#enlacesniveles a:visited{
+#niveles-entrenamiento #enlacesniveles a:visited{
    color: blueviolet; 
 }
